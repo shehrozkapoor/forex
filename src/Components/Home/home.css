@@ -346,7 +346,16 @@ stocks-p p{
 }
 
 .name-provide{
-    margin-top: 70px;
+    margin-top: 50px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 35px;
+    /* or 109% */
+
+    letter-spacing: 0.04em;
+
+    color: #FFFFFF;
 }
 
 
