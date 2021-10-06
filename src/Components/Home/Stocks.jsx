@@ -24,13 +24,13 @@ function Stocks() {
                 </div>
             </div>
             <div className="stock-cards d-flex flex-wrap" style={{margin:'0 auto',paddingBottom:'100px'}}>
-            <div className="row justify-content-center">
+            <div className="row justify-content-center" style={{margin:'0 auto'}}>
             <StockCard src={bell} value="Timely reports and indicators, which let you follow how your trading develops with each signal, along with vital success strategies"></StockCard>
             <StockCard src={vector} value="Timely reports and indicators, which let you follow how your trading develops with each signal, along with vital success strategies"></StockCard>
             <StockCard src={screen} value="Timely reports and indicators, which let you follow how your trading develops with each signal, along with vital success strategies"></StockCard>
             <StockCard src={page} value="Timely reports and indicators, which let you follow how your trading develops with each signal, along with vital success strategies"></StockCard>
             </div>
-            <div className="row justify-content-center">
+            <div className="row justify-content-center" style={{margin:'0 auto'}}>
             <StockCard src={stockrise} value="Timely reports and indicators, which let you follow how your trading develops with each signal, along with vital success strategies"></StockCard>
             <StockCard src={setting} value="Timely reports and indicators, which let you follow how your trading develops with each signal, along with vital success strategies"></StockCard>
             <StockCard src={person} value="Timely reports and indicators, which let you follow how your trading develops with each signal, along with vital success strategies"></StockCard>

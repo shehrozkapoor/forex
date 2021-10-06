@@ -345,10 +345,31 @@ stocks-p p{
     padding-top:10px ;
 }
 
+.name-provide{
+    margin-top: 70px;
+}
 
 
 
 @media only screen and (max-width: 600px) {
+    h1 , h2{
+        color: #02134F;
+    }
+    .name-provide{
+        padding-left: 0px!important;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 25px;
+        /* or 125% */
+
+        letter-spacing: 0.04em;
+
+        /* Main and copy */
+
+        color: #02134F;
+    }
     .footer {
         text-align: center;
     }
